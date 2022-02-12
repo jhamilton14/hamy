@@ -25,11 +25,13 @@ const Title = styled.div`
   margin: 0;
   line-height: 1.15;
   font-size: 2rem;
+  font-family: Poppins;
 `;
 
 const SubTitle = styled.div`
   font-size: 1.25rem;
   color: #adadad;
+  font-family: Poppins;
 `;
 
 const Main = styled.main`
